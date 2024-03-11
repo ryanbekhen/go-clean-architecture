@@ -8,7 +8,7 @@ require (
 	github.com/glebarez/sqlite v1.10.0
 	github.com/go-faker/faker/v4 v4.3.0
 	github.com/go-playground/validator/v10 v10.19.0
-	github.com/gofiber/contrib/fiberzerolog v0.2.3
+	github.com/gofiber/contrib/fiberzerolog v1.0.0
 	github.com/gofiber/contrib/swagger v1.1.1
 	github.com/gofiber/fiber/v2 v2.52.2
 	github.com/h2non/gock v1.2.0
